@@ -1,4 +1,4 @@
-#include "nova.dtsi"
+#include "Nova.dtsi"
 
 &kscan0 {
     col-gpios
